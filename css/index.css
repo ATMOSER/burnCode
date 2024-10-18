@@ -1,0 +1,24 @@
+.card {
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.card {
+
+  /* 相当于if条件判断 */
+  &:has(h1) {
+    background-color: red;
+  }
+  &:has(h2) {
+    background-color: blue;
+  }
+}
+ /* 配合后代选择器 */
+.figure {
+  & img {
+    height: 50px;
+  }
+  &:has(>img) {
+    background-color: green;
+  }
+}
