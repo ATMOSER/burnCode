@@ -23,7 +23,8 @@ function App() {
       {/* 10.展开语法中传递数据 */}
       {/* <PassData2 {...params}></PassData2> */}
       {/* 11. 条件渲染*/}
-      <ConditionalRendering age={10} today={7} hasMsg={ 'yes' } />
+      {/* <ConditionalRendering age={10} today={7} hasMsg={'yes'} /> */}
+      
     </>
   )
 }
