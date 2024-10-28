@@ -24,8 +24,14 @@ export default function StateHookChangeArr() {
       <div>
         <ul>
           {
-            myList.map(myList => (
-              <li key={myList.id}>{ myList.name }</li>
+            myList.map(item => (
+              <li key={item.id}>
+                { item.name }
+                <button onClick={() => {
+                  // 22.删除元素
+                  setMyList(myList.filter(a => a.id !== item.id))
+                }}>删除--{item.id}</button>
+              </li>
           ))}
         </ul>
       </div>
