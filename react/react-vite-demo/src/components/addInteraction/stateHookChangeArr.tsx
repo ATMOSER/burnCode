@@ -21,6 +21,10 @@ export default function StateHookChangeArr() {
           [...myList, { id: nextId++, name: name }]
         )
       }}>添加</button>
+      {/* 23.数组转换 */}
+      <button onClick={() =>{
+        setMyList(myList.map(i => ({id: i.id, name: i.name + '我在你后面'})))
+      }}>转换</button>
       <div>
         <ul>
           {
