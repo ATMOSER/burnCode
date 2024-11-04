@@ -1,0 +1,31 @@
+1.url解析---
+	url路由在@controller()中声明
+		例如/user/list:
+			@controller('user')
+	url中的参数通过@param
+		例如/user/111:
+			@Get(':id')
+			xxx(@param('id')) {}
+		query参数用@Query参数来取
+			例如/user/xx?id=1
+			@Get('xxx')
+			xxx(@Query('id')){}
+	@Body获取请求体内容
+
+2.service用来操作数据库
+
+3.nest每个模块都包含controller和service
+4.通过@module声明模块
+5.@module包含contollers和providers
+6.nest依赖注入机制(IOC inverse of control反转控制)
+	-只需要声明依赖, 不必手动new依赖??
+7.每个模块包含
+	controller: 处理路由, 解析请求参数
+	service: 处理业务逻辑
+	dto: 封装请求参数
+	entities: 封装对应数据库表实体
+8.MVC模式
+	controller接收请求参数
+	交给model处理业务逻辑
+	返回view(响应)
+
