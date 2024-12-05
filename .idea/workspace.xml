@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd1dc23a-98f4-4735-89e0-794afe5ea8fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/uni/1.text" afterDir="false" />
+    <list default="true" id="dd1dc23a-98f4-4735-89e0-794afe5ea8fa" name="Changes" comment="unibest初始化">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uni/my-uni-best/env/.env" beforeDir="false" afterPath="$PROJECT_DIR$/uni/my-uni-best/env/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,8 @@
         <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/uni/my-uni-best" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -48,11 +51,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -72,14 +79,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733381304417</updated>
-      <workItem from="1733381305623" duration="36000" />
+      <workItem from="1733381305623" duration="1334000" />
     </task>
+    <task id="LOCAL-00001" summary="unibest初始化">
+      <option name="closed" value="true" />
+      <created>1733381893350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733381893350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="unibest初始化">
+      <option name="closed" value="true" />
+      <created>1733382409604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733382409604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="unibest初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="unibest初始化" />
   </component>
 </project>
