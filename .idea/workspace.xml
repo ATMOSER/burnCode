@@ -5,13 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="872cd1dc-ed2b-4ccc-94ca-976112130757" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/src/components/xNavigator/xNavigator.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/src/pages/page1/subPage/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/src/tool/navigate.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uni/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/uni/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/uni/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.eslintrc-auto-import.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.husky/commit-msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/env/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/env/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/env/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/env/.env.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/manifest.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/pages.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/screenshots/pay-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/screenshots/pay-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/scripts/postupgrade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/components/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/components/fg-tabbar/fg-tabbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/components/fg-tabbar/tabbar.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/components/xNavigator/xNavigator.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/hooks/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/hooks/useRequest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/hooks/useUpload.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/interceptors/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/interceptors/prototype.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/interceptors/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/interceptors/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/layouts/demo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/layouts/tabbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages-sub/demo/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages/page1/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages/page1/subPage/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/pages/page2/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/service/index/foo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/1024x1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/167x167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/29x29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/58x58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/80x80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/87x87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/app/icons/96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/images/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/exampleHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/homeHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/personal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/static/tabbar/personalHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/store/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/style/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/style/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/tool/navigate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/types/auto-import.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/types/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/types/shims-uni.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/types/uni-pages.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/typings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/uni.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/uni_modules/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/utils/http.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/src/utils/platform.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/uno.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni/my-uni-best/uni/my-uni-best/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +125,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733362923768</updated>
-      <workItem from="1733362925843" duration="3365000" />
+      <workItem from="1733362925843" duration="3372000" />
     </task>
     <servers />
   </component>
